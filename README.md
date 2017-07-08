@@ -7,13 +7,17 @@ Create or use any image you want to use as a header.
 You can choose your own local images or url's to internet images.
 
 ## Examples
+
 This is the sample provided. 
+
 ![](pix/1.jpg),
 
 Above a module
+
 ![](pix/2.JPG),
 
 Above another module
+
 ![](pix/3.jpg),
 
 Use your own custom header pictures!
