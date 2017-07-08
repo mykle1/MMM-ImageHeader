@@ -1,16 +1,16 @@
 /* Copy and paste any or all of these css entries into your custom.css file inside your
  * css folder. The functions are annotated to make things as easy as possible for you.
  * 
- * Using this you can size, and move, the image header precisely in all directions
+ * Using this you can size and move the image header precisely in all directions
  * You can even use an internet url to an image
  */
 
 
 .MMM-ImageHeader .photo {
   width: 75%;                /* Size the header image. Aspect ratio maintained */
-  margin-right: -4px;        /* Move the header image using these */
-  margin-left: -4px;         /* Move the header image using these */
-  margin-top: -44px;          /* Move the header image using these */
-  margin-bottom: -4px;       /* Move the header image using these */
+  margin-right: -1px;        /* Move the header image using these */
+  margin-left: -1px;         /* Move the header image using these */
+  margin-top: -31px;          /* Move the header image using these */
+  margin-bottom: -1px;       /* Move the header image using these */
   float: left;               /* Left, center or right */
 }
