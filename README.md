@@ -32,7 +32,7 @@ Use your own custom header pictures!
 
     {
         module: "MMM-ImageHeader",
-		position: "top_left",
+		position: "top_left", // Choose the same position as the module you are using it with. Enter this above it in config.
 		config: {
 			headerImage: 'modules/MMM-ImageHeader/pix/1.jpg', // local path to your image or internet url to image.
 		}
