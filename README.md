@@ -8,7 +8,7 @@ You can choose your own local images or url's to internet images.
 
 ## Examples
 
-![](pix/1.JPG), ![](pix/2.JPG), ![](pix/3.JPG),
+![](pix/1.jpg), ![](pix/2.JPG), ![](pix/3.jpg),
 
 Use your own custom header pictures!
 
