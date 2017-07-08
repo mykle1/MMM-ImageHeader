@@ -40,7 +40,7 @@ Use your own custom header pictures!
 	
 ## How to use it multiple times!
 
-* Copy and paste the entire MMM-ImageHeder folder
+* Copy and paste the entire MMM-ImageHeader folder
 
 * Rename the new folder (Example: MMM-ImageHeader2)
 
