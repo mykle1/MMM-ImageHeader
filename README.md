@@ -40,6 +40,12 @@ Use your own custom header pictures!
 	
 ## How to use it multiple times!
 
+* You can simply add another entry or entries in your config for each image header.
+In this case, use the css file to zero out all alignments and center picture.
+Why? Because the css file controls ALL instances of the image header.
+
+## If you want individual control of each image header
+
 * Copy and paste the entire MMM-ImageHeader folder
 
 * Rename the new folder (Example: MMM-ImageHeader2)
